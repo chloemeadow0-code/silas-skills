@@ -1,6 +1,5 @@
 ---
 name: xhs-reply
-name: xhs-reply
 description: 小红书评论区回复技能，用于在小红书评论区查找评论并回复用户
 ---
 
